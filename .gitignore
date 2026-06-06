@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+staging/
+
+# Editor / IDE
+.vs/
+*.user
+
+# Packaging artifacts (release zips + extracted release folders)
+*.zip
+Paralives2DMap-v*/
+*.cs.clean
+
+# Local config
+*.cfg
+
+# Stray temp files
+100
+zixEJEj5
