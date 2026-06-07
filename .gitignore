@@ -2,6 +2,7 @@
 bin/
 obj/
 staging/
+!bin/Release/Paralives2DMap.dll
 
 # Editor / IDE
 .vs/
